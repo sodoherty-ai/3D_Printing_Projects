@@ -26,6 +26,6 @@ Create an animators pegboard to hold paper steady. To build print the following 
 
 ### Toybox Direct Links
 
-* [pegboard outers](https://www.make.toys/custom-toy-view/?toyId=wuhGikWZAS5KFjkPe)
+* [pegboard outers](https://www.make.toys/custom-toy-view/?toyId=jiH95TCuPHB4ThJDb)
 * [pegboard Joiners](https://www.make.toys/custom-toy-view/?toyId=BKtmBHgReyQYruHqQ)
 * [pegboard Center](https://www.make.toys/custom-toy-view/?toyId=kNspLNB4XgewXsTCs)
