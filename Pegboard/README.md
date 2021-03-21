@@ -5,9 +5,15 @@ Create an animators pegboard to hold paper steady. To build print the following 
 
 ### pegboard outers
 
+![Outer pieces](images/outer.png)
+
 ### pegboard Joiners
 
+![Joining pieces](images/joiners.png)
+
 ### pegboard Center
+
+![Center piece](images/inner.png)
 
 ### Finished layout.
 
