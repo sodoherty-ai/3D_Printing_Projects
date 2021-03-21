@@ -34,4 +34,4 @@ The following were used for testing the paper sockets. You can print faster to h
 
 * [Outer holder 1](https://www.make.toys/custom-toy-view/?toyId=fatwoazsL95WLBtrL)
 * [Inner circle and holder2](https://www.make.toys/custom-toy-view/?toyId=2W9zE3cAeABP72cjP)
-* 
+
