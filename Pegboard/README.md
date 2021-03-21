@@ -29,3 +29,9 @@ Create an animators pegboard to hold paper steady. To build print the following 
 * [pegboard outers](https://www.make.toys/custom-toy-view/?toyId=jiH95TCuPHB4ThJDb)
 * [pegboard Joiners](https://www.make.toys/custom-toy-view/?toyId=BKtmBHgReyQYruHqQ)
 * [pegboard Center](https://www.make.toys/custom-toy-view/?toyId=kNspLNB4XgewXsTCs)
+
+The following were used for testing the paper sockets. You can print faster to hold paper but it would not be a bar. 
+
+* [Outer holder 1](https://www.make.toys/custom-toy-view/?toyId=fatwoazsL95WLBtrL)
+* [Inner circle and holder2](https://www.make.toys/custom-toy-view/?toyId=2W9zE3cAeABP72cjP)
+
